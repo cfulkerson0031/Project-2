@@ -1,0 +1,24 @@
+header {
+    background-color: #d32f2f;
+    color: white;
+    padding: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0;
+}
+
+footer {
+    background-color: rgb(18, 204, 18);
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+nav ul {
+    list-style-type: none; 
+}

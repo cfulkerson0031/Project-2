@@ -1,0 +1,30 @@
+header {
+    background-color: #cdd32f;
+    color: white;
+    padding: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(242, 255, 0);
+    text-align: center;
+    margin: 0;
+}
+.container{
+    background-color: #c08b28;
+    padding: 20px 30px;
+    box-shadow: 0 4px 8px black;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(253, 177, 0);
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+nav ul {
+    list-style-type: none;
+}

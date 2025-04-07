@@ -1,0 +1,31 @@
+header {
+    background-color: #2fd3d3;
+    color: white;
+    padding: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(38, 0, 255);
+    text-align: center;
+    margin: 0;
+}
+
+.container{
+    background-color: #2fd3d3;
+    padding: 20px 30px;
+    box-shadow: 0 4px 8px black;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(97, 0, 253);
+    color: white;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+nav ul {
+    list-style-type: none;
+}
